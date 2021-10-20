@@ -1,0 +1,77 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../phase_0/tic-tac-toe-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-1-welcome-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-10-current-player"
+		},
+		{
+			"path": "../../../phase_0/ttt-2-board-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-3-display_board-example"
+		},
+		{
+			"path": "../../../phase_0/ttt-4-display-board-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-5-move-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-6-position-taken-rb"
+		},
+		{
+			"path": "../../../phase_0/ttt-7-valid-move"
+		},
+		{
+			"path": "../../../phase_0/ttt-8-turn"
+		},
+		{
+			"path": "../../../phase_0/ttt-9-play-loop"
+		},
+		{
+			"path": "../../../phase_0/ttt-game-status"
+		},
+		{
+			"path": "../../../../oo-tic-tac-toe-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-10-current-player-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-2-board-rb-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-3-display_board-example-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-4-display-board-rb-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-5-move-rb-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-6-position-taken-rb-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-7-valid-move-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-8-turn-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-9-play-loop-online-web-sp-000"
+		},
+		{
+			"path": "../../../../ttt-game-status-online-web-sp-000"
+		}
+	],
+	"settings": {}
+}
